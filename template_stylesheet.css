@@ -1,3 +1,9 @@
+.body{
+    display: block;
+    justify-self: center;
+}
+
 .header{
-    display: inline-block;
+    display: flex;
+    background-color: rgb(131, 1, 1);
 }
